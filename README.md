@@ -9,7 +9,7 @@
 - **Acceso Directo:** Permite calcular un término específico de la serie sin necesidad de regenerar la secuencia completa.
 
 ## Tecnologías Utilizadas
-- **Solidity:** Versión `0.8.24` (incluye control de desbordamientos y otras mejoras de seguridad).
+- **Solidity:** Versión `0.8.24`.
 - **Remix IDE:** Para pruebas, depuración y despliegue del contrato inteligente.
 - **Opcional:** Hardhat o Truffle para pruebas automatizadas y despliegue avanzado.
 
